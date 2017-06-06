@@ -1,4 +1,5 @@
 class PagesController < ApplicationController
+# Back-End code/logic for our pages.
   def index
   end
 
@@ -11,3 +12,4 @@ class PagesController < ApplicationController
   def explore
   end
 end
+
